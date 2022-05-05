@@ -10,6 +10,7 @@
 * Epic Pen
 * CloudApp
 * Obseidian
+* PowerToys
 * Office 365
 
 ## Storage
@@ -20,3 +21,14 @@
 ## Graphics
 * Pixelied
 * Get Stencil 
+
+## Software
+* Fiddler
+* Notepad++
+* Wireshark
+* LoadRunner
+* JMeter
+* NeoLoad
+* VS Code
+* Draw.io
+
