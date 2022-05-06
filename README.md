@@ -2,16 +2,20 @@
 
 ## Productivity
 
+* Ditto
 * ZoomIt
+* Bitwarden
 * Camtasia
 * SnagIt
-* DemoPro
+* DemoPro*
 * Screen Brush
 * Epic Pen
 * CloudApp
 * Obseidian
 * PowerToys
 * Office 365
+* Krisp
+
 
 ## Storage
 * OneDrive
@@ -26,9 +30,33 @@
 * Fiddler
 * Notepad++
 * Wireshark
-* LoadRunner
+* LoadRunner Professional
 * JMeter
 * NeoLoad
 * VS Code
 * Draw.io
+* IntelliJ IDEA
+* Pycharm
 
+## Browsers
+
+* Vivaldi
+* Chrome Canary
+* Chrome Stable
+* Edge Canary
+* Edge Stable
+* Firefox Stable
+* Firefox Developer Edition
+
+## Cloud
+
+* Docker Desktop
+* Rancher
+* AWS CLI
+
+## Misc
+
+* Clock
+* XBox Wallpaper
+
+`* Mac Only`
